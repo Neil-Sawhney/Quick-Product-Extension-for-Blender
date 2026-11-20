@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "quick_product_studio"
+version = "1.0.0"
+name = "Quick Product Studio"
+tagline = "One-click studio backdrop, lights and camera for products"
+maintainer = "Neil Sawhney"
+type = "add-on"
+tags = ["Lighting", "Render", "Camera"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/Neil-Sawhney/Quick-Product-Extension-for-Blender"
